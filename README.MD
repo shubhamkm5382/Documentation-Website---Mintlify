@@ -11,9 +11,7 @@ Original Website: https://www.mintlify.com/
 ## 🌐 Live Demo
 
 🔗 Live Preview:  
-https://your-live-link-here
-
-*(Replace with your deployed website URL)*
+https://mintlify-web-clone.netlify.app/
 
 ---
 
@@ -23,7 +21,6 @@ https://your-live-link-here
 
 ![Website Preview](./assets/preview.png)
 
-*(Add your screenshot in the assets folder as preview.png)*
 
 ---
 
